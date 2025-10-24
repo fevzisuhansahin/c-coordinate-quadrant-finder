@@ -8,7 +8,7 @@
 **🇹🇷 Türkçe:**
 Bu proje, C programlama dilinde yazılmış, kullanıcıdan alınan X ve Y koordinat değerlerine göre noktanın kartezyen koordinat sistemindeki yerini (hangi bölgede, eksen üzerinde veya orijinde olduğunu) belirleyen basit bir konsol uygulamasıdır. Program, temel `if-else` yapıları ve mantıksal karşılaştırmalar kullanarak noktanın konumunu verimli bir şekilde tespit eder.
 
-**🇬🇧 English:**
+*EN English:**
 This project is a simple console application written in the C programming language. It determines the location of a point in the Cartesian coordinate system (which quadrant, on which axis, or at the origin) based on the X and Y coordinate values entered by the user. The program efficiently identifies the point's position using fundamental `if-else` structures and logical comparisons.
 
 ---
